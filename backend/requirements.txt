@@ -1,0 +1,3 @@
+# download them using 'pip install -r requirements.txt' in a venv so they be used 
+flask
+flask-cors

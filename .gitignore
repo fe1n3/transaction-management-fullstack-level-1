@@ -4,4 +4,12 @@ cypress/plugins
 cypress/screenshots
 cypress/support
 
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
 .idea
